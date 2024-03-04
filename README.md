@@ -1,6 +1,9 @@
+<div align = "center">
+
 # TextScanner
 
 ![img](https://i.imgur.com/PLIKx99.gif)
+</div>
 
 ## Description
 Golang-Based Program for getting better at For-Loops. 
