@@ -4,7 +4,7 @@
 </div>
 
 ## Description
-Golang-Based Program for getting better at For-Loops. 
+Golang-Based Program for counting the number of words within a string, all based on user input. 
 
 <div align = "center">
 
