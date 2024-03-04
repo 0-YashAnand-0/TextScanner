@@ -34,7 +34,7 @@ Faced problem with scanner:
 
 Instead we could have used bufio to provide a temporary storage:
 ```
-	scanner := bufio.NewScanner(os.Stdin)
+        scanner := bufio.NewScanner(os.Stdin)
 	input = scanner.Text()
 	scanner.Scan()
 	input = scanner.Text()
