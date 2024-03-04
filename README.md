@@ -48,6 +48,12 @@ Instead we could have used bufio to provide a temporary storage:
 2. Range over input and scan how many times specific word mentioned
     - Referred to [this guide](https://www.educative.io/answers/how-to-check-if-an-element-is-inside-a-slice-in-golang)
     - Basic blueprint:
-        - 1. Create a boolean condition of "exists=false"
-        - 2. Create a for loop that ranges over the input & searches the keyword
-        - 3. Number of time the word is called will be printed and loop broken
+```
+	wordCount := 0
+	for _, singleInput := range splitInput {
+		if word == singleInput {
+			wordCount++
+		}
+	}
+	fmt.Printf("The KeyWord %s is found %d times\n", word, wordCount)
+```
