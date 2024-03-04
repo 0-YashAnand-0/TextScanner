@@ -43,6 +43,10 @@ func funcWordCounter() {
 	fmt.Printf("The input is: %s", input)
 	splitInput := strings.Split(input, " ")
 
+	fmt.Println("Please enter the word you want the word-count of!")
+	fmt.Scanf("%s", &word) 
+	fmt.Printf("The Keyword is: %s\n", word)
+	
 	// fmt method
 	wordCount := 0
 	for _, singleInput := range splitInput {
