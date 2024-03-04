@@ -6,11 +6,11 @@ Golang-Based Program for getting better at For-Loops.
 ## Motivation
 This program has been created for testing a different approach towards learning Golang: following the '[Question Driven Development](https://www.delenamalan.co.za/2021/2021-04-14-question-driven-development.html)' that aims towards learning thigs by doing.
 
-## Concept				
-Create an infinite shell until user has written "exit" on console:				
-        1. Let user enter a string or paragraph 				
-        2. Let user search for a particular word that they want to find word count of		
-        3. Print the number of times a word was mentioned in the entered string			
+## Concept         
+Create an infinite shell until user has written "exit" on console:               
+        1. Let user enter a string or paragraph        
+        2. Let user search for a particular word that they want to find word count of     
+        3. Print the number of times a word was mentioned in the entered string    
 
 ## How to do it? 
 Creating Shell 
