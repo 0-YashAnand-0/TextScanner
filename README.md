@@ -1,12 +1,15 @@
 <div align = "center">
 
 # TextScanner
-
-![img](https://i.imgur.com/PLIKx99.gif)
 </div>
 
 ## Description
 Golang-Based Program for getting better at For-Loops. 
+
+<div align = "center">
+
+![img](https://i.imgur.com/PLIKx99.gif)
+</div>
 
 ## Motivation
 This program has been created for testing a different approach towards learning Golang: following the '[Question Driven Development](https://www.delenamalan.co.za/2021/2021-04-14-question-driven-development.html)' that aims towards learning thigs by doing.
