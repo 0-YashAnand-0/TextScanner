@@ -1,5 +1,7 @@
 # TextScanner
 
+https://i.imgur.com/PLIKx99.gif
+
 ## Description
 Golang-Based Program for getting better at For-Loops. 
 
